@@ -12,7 +12,8 @@ A simple Python tool to evaluate the strength of your passwords based on common 
 - Gives feedback on how to improve weak passwords
 - No external libraries required (uses Python's built-in re module)
 
-👩‍💻 Author
-Jyoti Sharma
+## 👩‍💻 Author
+
+*Jyoti Sharma*
 📫 www.linkedin.com/in/jyoti-sharma-408706303
 💻 Aspiring Cybersecurity | Python Beginner | Frontend Developer
