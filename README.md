@@ -10,6 +10,10 @@ A simple Python tool to evaluate the strength of your passwords based on common 
   - At least one digit
   - At least one special character
 - Gives feedback on how to improve weak passwords
-- CLI-based, easy to use
+- No external libraries required (uses Python's built-in re module)
 
+
+### 👨‍💻 Author
+JYOTI SHARMA
+Aspiring Cybersecurity Expert | Frontend Developer | python beginner
 
