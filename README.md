@@ -15,5 +15,7 @@ A simple Python tool to evaluate the strength of your passwords based on common 
 ## 👩‍💻 Author
 
 *Jyoti Sharma*
+
 📫 www.linkedin.com/in/jyoti-sharma-408706303
+
 💻 Aspiring Cybersecurity | Python Beginner | Frontend Developer
